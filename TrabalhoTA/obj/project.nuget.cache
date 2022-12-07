@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ujQD7XCY+4NMRiNNbjCJLAmjH4j79W8ouyZT+HpXdig559v1PGUcBkYv2cvfdlKQ/0OtTIdGcYZTvvVVH7wTHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joao.victor\\Desktop\\TrabalhosJoao\\TrabalhoTA\\TrabalhoTA\\TrabalhoTA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joao.victor\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\joao.victor\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\joao.victor\\.nuget\\packages\\newtonsoft.json.schema\\3.0.14\\newtonsoft.json.schema.3.0.14.nupkg.sha512",
+    "C:\\Users\\joao.victor\\.nuget\\packages\\restsharp\\108.0.3\\restsharp.108.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
